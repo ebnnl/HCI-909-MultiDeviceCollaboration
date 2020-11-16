@@ -10,6 +10,8 @@ https://drive.google.com/file/d/1ggzdht9KG57lJVmS3SAoX2mZjbUod49l/view?usp=shari
 \ 
 Link to github: https://github.com/solinehayes/HCI-909-MultiDeviceCollaboration
 
+[Screenshot](Capture.png)
+
 # Setup
 
 ### Requirements
