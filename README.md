@@ -1,6 +1,12 @@
 # HCI-909 : Multi device Collaborative Screen
 
+**Mobile app to create annotated postits, and move them from one device to another as if they formed a single screen.**
+
+**Link to demo video :**
+https://drive.google.com/file/d/1ggzdht9KG57lJVmS3SAoX2mZjbUod49l/view?usp=sharing
+
 **Link to download the .apk and download the app (ANDROID ONLY)**: https://we.tl/t-XZeF9orqpU
+
 \ 
 Link to github: https://github.com/solinehayes/HCI-909-MultiDeviceCollaboration
 
